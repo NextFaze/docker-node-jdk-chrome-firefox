@@ -1,11 +1,15 @@
 # Dockerfile for AUI
 
+Forked from Atlassian:
+
+    https://bitbucket.org/atlassian/docker-node-jdk-chrome-firefox
+
 This Dockerfile contains:
 
 * SCM tools
 * Java 8
 * Maven 3.3.9
-* Node 8.x
+* Node 9.x
 * npm and yarn latest
 * Google Chrome latest
 * Firefox ESR latest
